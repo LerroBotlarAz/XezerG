@@ -1,6 +1,4 @@
-# @AylinRobot
-# Sahib @HuseynH
-# Repo Açığdısa İcazəsis Götürmə Oğlum
+
 
 import time
 from AylinRobot import AylinRobot as app
