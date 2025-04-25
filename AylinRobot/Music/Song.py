@@ -1,6 +1,3 @@
-# @AylinRobot
-# Sahib @HuseynH
-# Repo Açığdısa İcazəsis Götürmə Oğlum
 
 import os, requests, yt_dlp
 from AylinRobot import AylinRobot as app
