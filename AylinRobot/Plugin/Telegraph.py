@@ -1,6 +1,4 @@
-# @AylinRobot
-# Sahib @HuseynH
-# Repo Açığdısa İcazəsis Götürmə Oğlum
+
 
 import os, pyrogram
 from telegraph import upload_file
