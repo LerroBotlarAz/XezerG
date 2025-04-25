@@ -1,6 +1,4 @@
-# @AylinRobot
-# Sahib @HuseynH
-# Repo Açığdısa İcazəsis Götürmə Oğlum
+
 
 import aiohttp
 from pyrogram.types import Message
