@@ -1,6 +1,4 @@
-# @AylinRobot
-# Sahib @HuseynH
-# Repo Açığdısa İcazəsis Götürmə Oğlum
+
 
 from AylinRobot import AylinRobot as app
 from pyrogram import Client, filters
