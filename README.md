@@ -1,10 +1,7 @@
-# AylinRobot
+XəzərGameRobot: Qruplarınızın Yeni Əyləncə Mərkəzi!
 
-Deməli Belə Hamının O Satışa Çıxardığı Bot AylinRobot Bəziləri Hətda Bununla Özlərinə Bu Yolla "Develper" Deyirdi Satişa Belə Qoyurdu Və O reponu Mən Hər Kəs Üçün Açıq EElan Edirəm İçindəki Yazıları Silmədən Öz Adınıza Çıxartmadan İşlədin
+Dostlarınızla bir araya gəldiyiniz qrup söhbətlərini daha maraqlı etmək istəyirsiniz? O zaman XəzərGameRobot tam sizə görədir! Bu bot qruplarınıza müxtəlif və əyləncəli oyunlar təklif edərək ünsiyyətinizi daha canlı və yaddaqalan edəcək.
 
-İçəridəki Sahibin Kimə OldugunnDəyişmədən İşlədin
+XəzərGameRobot ilə qrup üzvlərinizlə birlikdə zəka oyunları oynaya, şansınızı sınaya və ya söz ustası olduğunuzu sübut edə bilərsiniz. Botun təklif etdiyi müxtəlif oyunlar sayəsində hər kəs öz marağına uyğun bir əyləncə tapa biləcək.
 
-
-# Reponu Satışa Çıxardan Peysərdi
-
-Qeyd Bu Botu İlk Yıgmışam  Yəni İçəridə İmportlarda Və Ya Digər Yerlərdə Artığlıq Ola Bilər 
+Qrupunuzda rəqabət ruhunu yüksəldin, yeni dostluqlar qurun və XəzərGameRobot ilə unudulmaz anlar yaşayın! Qruplarınızı daha əyləncəli və aktiv etmək üçün bu gözəl fürsəti qaçırmayın. Elə indi XəzərGameRobot-u qrupunuza əlavə edin və fərqi hiss edin!
