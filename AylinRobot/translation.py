@@ -1,7 +1,4 @@
-# @AylinRobot
-#@MusicAzBot
-# Sahib @HuseynH
-# Repo Açığdısa İcazəsis Götürmə Oğlum
+
 
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
