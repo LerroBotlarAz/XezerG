@@ -1,8 +1,3 @@
-# @AylinRobot
-#@MusicAzBot
-# Sahib @HuseynH
-# Repo Açığdısa İcazəsis Götürmə Oğlum
-# Roponu Satışa Qoyan Konkret Peysərdi
 
 from AylinRobot import AylinRobot as app
 from pyrogram import filters
