@@ -1,7 +1,4 @@
-# @AylinRobot
-# Sahib @HuseynH
-# Repo Açığdısa İcazəsis Götürmə Oğlum
-# Mamana Salam De 
+
 import time
 from time import time
 import random
