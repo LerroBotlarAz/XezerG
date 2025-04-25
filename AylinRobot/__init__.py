@@ -1,7 +1,4 @@
-# @AylinRobot
-# Sahib @HuseynH
-# Repo Açığdısa İcazəsis Götürmə Oğlum
-# Reponu Satan Kodları Götürən Kimliyindən Adlı Olmayaraq Peysərdi
+
 
 import logging
 from pyrogram import Client
