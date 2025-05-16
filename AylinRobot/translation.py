@@ -13,7 +13,7 @@ class Translation(object):
 ║▻ 💌 Telegram Botuyam Bacarıqlarımı Görmək Üçün
 ║▻ `📚 Kömək` Buttonuna Toxun
 ╚═════════════════
-👨‍💻 **Sahibim** ♒️ @{}
+👨‍💻 **Sahibim** ♒️ @LerroAndMee
 
 """    
     HELP_TEXT = """
@@ -50,8 +50,7 @@ class Translation(object):
 ║▻ ✨ Bot Versiyası: v0.7.0
 ║▻ 🍀 Pyrogram Versiyası: 1.4.16
 ║▻ ✨ Python Versiyası: 3.11.1
-║▻ ⚙️ Server [Heroku](https://heroku.com)
-║▻ 📆 Botun İstifadəyə Verilmə Tarixi `20.11.2022` 
+║▻ 📆 Botun İstifadəyə Verilmə Tarixi `19.05.2025` 
 ╚═════════════════
 ╔═════════════════
 ║▻ **⚠️ Qeyd Botun Qrupunuzda İşləməsi 
