@@ -1,4 +1,3 @@
-## Sahib HuseynH Satış Qadağandır
 
 import logging, asyncio, random
 from telethon import TelegramClient, events
