@@ -5,7 +5,7 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 START_BUTTONS = InlineKeyboardMarkup(
 [[InlineKeyboardButton('📢 Kanal', url=f"https://t.me/{Config.CHANNEL}"),
-InlineKeyboardButton("💬 Söhbət Qrupu", url=f"https://t.me/{Config.SUPPORT}"),
+InlineKeyboardButton("💬 Support", url=f"https://t.me/{Config.SUPPORT}"),
 ],[
 InlineKeyboardButton('ℹ️ Bot Haqqında', callback_data='bh'),  
 InlineKeyboardButton('📚 Bot Əmrləri', callback_data='help'),
